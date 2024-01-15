@@ -100,7 +100,7 @@
 </style>
 
 <div class="constitution">
-   <h1 class="noUnderscore">JEDEN VERDAMMTEN SONNTAG LEAGUE CONSTITUTION</h1>
+   <h1 class="noUnderscore">MAINZER DYNASTY LEAGUE CONSTITUTION</h1>
     
     <h2 class="noUnderscore">INHALTSVERZEICHNIS</h2>
     
