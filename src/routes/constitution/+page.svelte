@@ -360,7 +360,7 @@
     
     <h3 bind:this={fiveThree}>Regeln des Drafts</h3>
     <ol start="4">
-         <li>Der Draft unterliegt dem automatisierten Prozess von Sleeper und ist ein Snake Draft.</li>
+         <li>Der Draft unterliegt dem automatisierten Prozess von Sleeper und ist ein Snake Draft aus dem Rookie Player Pool.</li>
 		 <li>Jedoch kann der Draft auf anderen Plattformen oder im Offline-Format stadtfinden. Die Ergebnisse werden anschließend vom Commissioner in Sleeper eingetragen.</li>
 		 <li>Es ist möglich, Draft Picks vor und während des Drafts zu traden.</li>
     </ol>
@@ -420,7 +420,7 @@
     <h3 bind:this={eightOne}>Zeit</h3>
     <ol>
          <li>Die Playoffs beginnen in Week 16 der Regular Season der NFL.</li>
-         <li>Es gibt drei (2) Playoff-Runden</li>
+         <li>Es gibt zwei (2) Playoff-Runden</li>
          <li>Jede Playoff-Runde dauert eine (1) Woche.</li>
     </ol>
     
@@ -503,68 +503,12 @@
                  
                
  
- <p>VEREINBART mit diesem Tag, dem 23. September 2022.</p>               
+ <p>VEREINBART mit diesem Tag, dem 01. Februar 2024.</p>               
 
     
   <h2 class="sectionHeading" bind:this={ten}>Anhang "A": FINANZEN</h2>  
    <p>Der Schatzmeister wird von der Mitgliedern der League auf unbestimmte Zeit gewählt. es ist möglich ein Misstrauensvotum zu jeder Zeit durchzuführen und gleichzeitig einen neuen Schatzmeister zu wählen. Dazu bedarf es einen formlosen Antrag an den Commissioner. Bö wurde am 15.05.2023 zum Schatzmesiter gewählt. 
    Die Aufgaben sind das Eintreiben des jährlichen Beitrags, die Verwaltung und Buchführung der Finanzen, die Genehmigung von Ausgaben und das Auszahlen des benötigten Betrags. Jedes Jahr wird von jedem Manager ein Buy-In Beitrag von 5€ erhoben. Dieses Budget soll für die Gravierung der beiden Trophäen, für eine eventuelle Neuanschaffung dieser und für den Versand an Manager dienen. Schatzmeister sammelt das Geld in der Offseason ein und verwalten es über die gesamte Zeit. Zusätzlich wird jährlch ein schriftlicher Bericht angefertigt.</p>
-
-<table border="1">
-  <tr>
-    <th>Manager</th>
-    <th>2023</th>
-  </tr>
-  <tr>
-    <td>Marcus</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Chris</td>
-    <td></td>
-  </tr>
-    <tr>
-    <td>Hembes</td>
-    <td></td>
-  </tr>
-    <tr>
-    <td>Maggi</td>
-    <td></td>
-  </tr>
-    <tr>
-    <td>Bö</td>
-    <td></td>
-  </tr>
-    <tr>
-    <td>Ecki</td>
-    <td></td>
-  </tr>
-    <tr>
-    <td>David M.</td>
-    <td></td>
-  </tr>
-    <tr>
-    <td>David S.</td>
-    <td></td>
-  </tr>
-    <tr>
-    <td>Nico</td>
-    <td></td>
-  </tr>
-    <tr>
-    <td>Marten</td>
-    <td></td>
-  </tr>
-    <tr>
-    <td>Janosch</td>
-    <td></td>
-  </tr>
-    <tr>
-    <td>Manu</td>
-    <td></td>
-  </tr>
-</table>
-
 
   <h2 id="anhangb" class="sectionHeading" bind:this={eleven}>Anhang "B": VERSIONSHISTORIE</h2>  
   
@@ -579,31 +523,7 @@
     <td>01</td>
     <td>Erstmalige Erstellung</td>
     <td>Marcus</td>
-    <td>07.09.2019</td>
-  </tr>
-  <tr>
-    <td>02</td>
-    <td>Komplette Neuausrichtung mit Ergänzungen</td>
-    <td>Marcus</td>
-    <td>14.01.2022</td>
-  </tr>
-  <tr>
-    <td>03</td>
-    <td>Überarbeitung</td>
-    <td>Marcus/Chris</td>
-    <td>23.09.2022</td>
-  </tr>
-  <tr>
-    <td>04</td>
-    <td>Überarbeitung der Strafen</td>
-    <td>Marcus</td>
-    <td>06.12.2022</td>
-  </tr>
-  <tr>
-    <td>05</td>
-    <td>Überarbeitung der Constitution (FAAB, League-Median, Finanzen)</td>
-    <td>Marcus</td>
-    <td>04.04.2023</td>
+    <td>14.01.2024</td>
   </tr>
 </table>
     
