@@ -134,7 +134,7 @@
 
     <h3 class="noUnderscore clickable" on:click={() => goToSection(six)}>Artikel VI: WAIVER UND ROSTER MANAGEMENT</h3>
     
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(sixOne)}>FWaiver Wire</h4>
+        <h4 class="noUnderscore clickable" on:click={() => goToSection(sixOne)}>Waiver Wire</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(sixTwo)}>Verantwortlichkeiten der Manager</h4>
     
      <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Artikel VII: TRADES</h3>
@@ -507,8 +507,8 @@
 
     
   <h2 class="sectionHeading" bind:this={ten}>Anhang "A": FINANZEN</h2>  
-   <p>Der Schatzmeister wird von der Mitgliedern der League auf unbestimmte Zeit gewählt. es ist möglich ein Misstrauensvotum zu jeder Zeit durchzuführen und gleichzeitig einen neuen Schatzmeister zu wählen. Dazu bedarf es einen formlosen Antrag an den Commissioner. Bö wurde am 15.05.2023 zum Schatzmesiter gewählt. 
-   Die Aufgaben sind das Eintreiben des jährlichen Beitrags, die Verwaltung und Buchführung der Finanzen, die Genehmigung von Ausgaben und das Auszahlen des benötigten Betrags. Jedes Jahr wird von jedem Manager ein Buy-In Beitrag von 5€ erhoben. Dieses Budget soll für die Gravierung der beiden Trophäen, für eine eventuelle Neuanschaffung dieser und für den Versand an Manager dienen. Schatzmeister sammelt das Geld in der Offseason ein und verwalten es über die gesamte Zeit. Zusätzlich wird jährlch ein schriftlicher Bericht angefertigt.</p>
+   <p>Der Schatzmeister wird von der Mitgliedern der League auf unbestimmte Zeit gewählt. Es ist möglich ein Misstrauensvotum zu jeder Zeit durchzuführen und gleichzeitig einen neuen Schatzmeister zu wählen. Dazu bedarf es einen formlosen Antrag an den Commissioner. Bö wurde zum Schatzmesiter ernannt. 
+   Die Aufgaben sind das Eintreiben eines unbestimmten Beitragd, die Verwaltung und Buchführung der Finanzen, die Genehmigung von Ausgaben und das Auszahlen des benötigten Betrags. Jedes Jahr wird von jedem Manager ein Buy-In Beitrag von 5€ erhoben. Dieses Budget soll für die Gravierung der beiden Trophäen, für eine eventuelle Neuanschaffung dieser und für den Versand an Manager dienen. Schatzmeister sammelt das Geld in der Offseason ein und verwalten es über die gesamte Zeit. Zusätzlich wird jährlch ein schriftlicher Bericht angefertigt.</p>
 
   <h2 id="anhangb" class="sectionHeading" bind:this={eleven}>Anhang "B": VERSIONSHISTORIE</h2>  
   
