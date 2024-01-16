@@ -166,7 +166,7 @@
     <hr />
     
      <h2 class="sectionHeading" bind:this={one}>Artikel 1: EINLEITUNG</h2>
-     <p>Diese Constitution ist eine Vereinbarung zwischen den Managern der Dynasty-Liga. Von diesen Managern akzeptiert jeder die Regeln und Pflichten, die in dieser Vereinbarung festgesetzt wurden und verpflichtet sich, diese zu befolgen. Die Constitution bleibt auf unbestimmte Zeit in Kraft.</p>
+     <p>Diese Constitution ist eine Vereinbarung zwischen den Managern der Mainzer Dynasty Liga. Von diesen Managern akzeptiert jeder die Regeln und Pflichten, die in dieser Vereinbarung festgesetzt wurden und verpflichtet sich, diese zu befolgen. Die Constitution bleibt auf unbestimmte Zeit in Kraft.</p>
     
 
      <h2 class="sectionHeading" bind:this={two}>Artikel II: LEAGUE COMMISSIONER</h2>
@@ -355,7 +355,7 @@
     
     <h3 bind:this={fiveTwo}>Draft Order Determination</h3>
     <ol start="3">
-         <li>Die Draft Order wird durch die Vorjahresplatzierung festgelegt. Dabei erhält der Vorjahresletze den First Pick, der 9. den Second Pick und so weiter.</li>
+         <li>Die Draft Order wird durch die Vorjahresplatzierung festgelegt. Für die Playoff-Teams aus dem Vorjahr zählt hier das Standing nach den Playoffs, für die Nicht-Playoff-Teams zählt das Standing nach der Regular Season. Dabei erhält der Vorjahresletze den First Pick, der 9. den Second Pick und so weiter.</li>
     </ol>
     
     <h3 bind:this={fiveThree}>Regeln des Drafts</h3>
@@ -507,8 +507,8 @@
 
     
   <h2 class="sectionHeading" bind:this={ten}>Anhang "A": FINANZEN</h2>  
-   <p>Der Schatzmeister wird von der Mitgliedern der League auf unbestimmte Zeit gewählt. Es ist möglich ein Misstrauensvotum zu jeder Zeit durchzuführen und gleichzeitig einen neuen Schatzmeister zu wählen. Dazu bedarf es einen formlosen Antrag an den Commissioner. Bö wurde zum Schatzmesiter ernannt. 
-   Die Aufgaben sind das Eintreiben eines unbestimmten Beitragd, die Verwaltung und Buchführung der Finanzen, die Genehmigung von Ausgaben und das Auszahlen des benötigten Betrags. Jedes Jahr wird von jedem Manager ein Buy-In Beitrag von 5€ erhoben. Dieses Budget soll für die Gravierung der beiden Trophäen, für eine eventuelle Neuanschaffung dieser und für den Versand an Manager dienen. Schatzmeister sammelt das Geld in der Offseason ein und verwalten es über die gesamte Zeit. Zusätzlich wird jährlch ein schriftlicher Bericht angefertigt.</p>
+   <p>Der Schatzmeister wird von der Mitgliedern der League auf unbestimmte Zeit gewählt. Es ist möglich ein Misstrauensvotum zu jeder Zeit durchzuführen und gleichzeitig einen neuen Schatzmeister zu wählen. Dazu bedarf es einen formlosen Antrag an den Commissioner. Bö wurde zum Schatzmeister ernannt. 
+   Die Aufgaben sind das Eintreiben eines unbestimmten Beitrags, die Verwaltung und Buchführung der Finanzen, die Genehmigung von Ausgaben und das Auszahlen des benötigten Betrags. Jedes Jahr kann von jedem Manager ein Beitrag in unbestimmter Höhe erhoben. Dieses Budget soll für die Gravierung der Trophäe, für eine eventuelle Neuanschaffung dieser und für den Versand an Manager dienen. Der Schatzmeister sammelt das Geld in der Offseason ein und verwalten es über die gesamte Zeit. Zusätzlich wird jährlch ein schriftlicher Bericht angefertigt.</p>
 
   <h2 id="anhangb" class="sectionHeading" bind:this={eleven}>Anhang "B": VERSIONSHISTORIE</h2>  
   
