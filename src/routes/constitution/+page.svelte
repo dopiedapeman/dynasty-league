@@ -260,7 +260,7 @@
                 //<li>Der Betrag des jährlichen FAABs eines Clubs;</li>
                 <li id="3.2c">Änderung an dieser Constitution. Dies kann Folgendes umfassen:</li>
                     <ol type="i">
-                        <li>Die Erweiterung der Liga;</li>
+                        <li>Die Erweiterung der Liga; </li>
                         <li>Aktualisierung der Ligaeinstellungen und Regeln, wie in Artikel IV definiert; und</li>
                         <li>Aktualisierung der Draft-Regularien.</li>
                     </ol> 
