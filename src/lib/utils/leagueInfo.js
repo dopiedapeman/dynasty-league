@@ -27,7 +27,7 @@ export const managers = [
     //  "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Mombach", // (optional)
     //  "bio": "Lorem ipsum...",
-      "photo": "/managers/chris.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/Chris.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2021, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "pit", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     //   "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -49,7 +49,7 @@ export const managers = [
     //  "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Finthen", // (optional)
     //  "bio": "Lorem ipsum...",
-      "photo": "/managers/marcus.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/Marcus.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2021, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "dal", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
        "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -71,7 +71,7 @@ export const managers = [
     //  "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Darmstadt", // (optional)
     //  "bio": "Lorem ipsum...",
-      "photo": "/managers/ecki.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/Ecki.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2021, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "phi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     //   "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -93,7 +93,7 @@ export const managers = [
     //  "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Roatock", // (optional)
     //  "bio": "Lorem ipsum...",
-      "photo": "/managers/nico.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/Nico.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2021, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "den", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     //   "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -115,7 +115,7 @@ export const managers = [
     //  "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Altstadt", // (optional)
     //  "bio": "Lorem ipsum...",
-      "photo": "/managers/maggi.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/Maggi.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2021, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "sea", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     //   "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -137,7 +137,7 @@ export const managers = [
     //  "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Wiesbaden", // (optional)
     //  "bio": "Lorem ipsum...",
-      "photo": "/managers/boe.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/Boe.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2021, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "atl", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     //   "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -159,7 +159,7 @@ export const managers = [
     //  "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Waldalgesheim", // (optional)
     //  "bio": "Lorem ipsum...",
-      "photo": "/managers/hembes.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/Hembes.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2021, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "gb", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     //   "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -181,7 +181,7 @@ export const managers = [
     //  "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Hochheim", // (optional)
     //  "bio": "Lorem ipsum...",
-      "photo": "/managers/mehrfeld.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/David M.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2021, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "no", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     //   "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -203,9 +203,9 @@ export const managers = [
     //  "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Mombach", // (optional)
     //  "bio": "Lorem ipsum...",
-      "photo": "/managers/paul.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/Paul.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2021, // (optional) when did the manager start playing fantasy football
-    // "favoriteTeam": "pit", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+     "favoriteTeam": "gb", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     //   "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
     //   "rival": {
     //     name: "Rival", // Can be anything (usually your rival's name)
@@ -225,9 +225,9 @@ export const managers = [
     //  "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Neustadt", // (optional)
     //  "bio": "Lorem ipsum...",
-      "photo": "/managers/teemu.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/Teemu.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2021, // (optional) when did the manager start playing fantasy football
-    //  "favoriteTeam": "pit", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "favoriteTeam": "sea", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     //   "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
     //   "rival": {
     //     name: "Rival", // Can be anything (usually your rival's name)
